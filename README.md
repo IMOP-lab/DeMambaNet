@@ -26,3 +26,7 @@ python test.py
 ```bash
 pip install -r requirements.txt
 ```
+# test DeMambaNet
+```bash
+python build_sam_feat_seg_model.py
+```
