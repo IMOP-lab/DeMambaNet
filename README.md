@@ -3,15 +3,10 @@
 
 # Methods
 <div align=center>
-  <img src="<div align=center>
-  <img src="https://github.com/IMOP-lab/SASAN-Pytorch/blob/main/figures/FINE.png"width=80% height=80%>
+  <img src="https://github.com/IMOP-lab/DeMambaNet/blob/main/images/overal.png"width=80% height=80%>
 </div>
 <p align=center>
-  Figure 2: Structure of the FINE module.
-</p>"width=80% height=80%>
-</div>
-<p align=center>
-  Figure 2: Structure of the FINE module.
+  Figure 1: Structure of the DeMambaNet.
 </p>
 
 # Install
